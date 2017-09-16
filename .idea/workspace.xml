@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29387859-db1e-45d0-be06-927c67c9b9c9" name="Default" comment="" />
+    <list default="true" id="29387859-db1e-45d0-be06-927c67c9b9c9" name="Default" comment="initial commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gerador nome branch/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../gerador nome branch/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505581976536</updated>
-      <workItem from="1505581978177" duration="11479000" />
+      <workItem from="1505581978177" duration="11550000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1505593830405</created>
@@ -176,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505593830405</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1505593849555</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1505593849555</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11479000" />
+    <option name="totallyTimeSpent" value="11550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
