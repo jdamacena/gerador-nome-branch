@@ -20,3 +20,9 @@ function gerarNomeBranch() {
 
     campoResultado.value = (primeiraParte + segundaParte);
 }
+
+function limparCampoTitulo() {
+    var txtTitulobranch = document.getElementById('txtNomeBranch');
+    txtTitulobranch.value = "";
+    txtTitulobranch.focus();
+}
